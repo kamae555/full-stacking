@@ -2,7 +2,11 @@ team: Panthers
 
 manager: Dasani
 
+<<<<<<< HEAD
 coach : Shirley
+=======
+coach : Raymond
+>>>>>>> 630c8a9 (edit panthers)
 
 members:
 - Kirkland
