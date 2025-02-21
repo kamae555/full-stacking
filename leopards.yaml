@@ -2,11 +2,7 @@ team: Leopards
 
 manager: Nora
 
-<<<<<<< HEAD
-coach : Nicholas
-=======
 coach : Melissa
->>>>>>> 7fba779 (edit leopards)
 
 members:
 - jinyoung
@@ -14,3 +10,4 @@ members:
 - suyeon
 - Oliva
 - oliveu
+- hyewon
